@@ -1,3 +1,6 @@
-RTU Result Fetching app by vs4vijay
+A simple python script to get result from rtu.ac.in
 
-PS: Compatible only for Python 2.6/2.7
+
+## Requirements
+
+* Python 2.6 or 2.7
